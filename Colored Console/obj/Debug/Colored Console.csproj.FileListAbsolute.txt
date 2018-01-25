@@ -1,0 +1,7 @@
+C:\Users\jajdu\source\repos\Colored Console\Colored Console\bin\Debug\Colored Console.exe.config
+C:\Users\jajdu\source\repos\Colored Console\Colored Console\bin\Debug\Colored Console.exe
+C:\Users\jajdu\source\repos\Colored Console\Colored Console\bin\Debug\Colored Console.pdb
+C:\Users\jajdu\source\repos\Colored Console\Colored Console\obj\Debug\Colored Console.csprojResolveAssemblyReference.cache
+C:\Users\jajdu\source\repos\Colored Console\Colored Console\obj\Debug\Colored Console.csproj.CoreCompileInputs.cache
+C:\Users\jajdu\source\repos\Colored Console\Colored Console\obj\Debug\Colored Console.exe
+C:\Users\jajdu\source\repos\Colored Console\Colored Console\obj\Debug\Colored Console.pdb
